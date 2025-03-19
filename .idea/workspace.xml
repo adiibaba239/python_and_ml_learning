@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3dc2c41-9d3e-427d-a3b9-6fcf286e50fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ml/Music.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lab/string_mutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_uploading_api/pdftoword.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ml/descisiontree.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml/descisiontree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_uploading_api/p.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_uploading_api/p.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,8 @@
   "keyToString": {
     "Python.descisiontree.executor": "Run",
     "Python.fibonacci.executor": "Run",
+    "Python.p.executor": "Run",
+    "Python.pdftoword.executor": "Run",
     "Python.string_mutation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
