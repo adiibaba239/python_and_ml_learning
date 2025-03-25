@@ -1,0 +1,12 @@
+"java": [
+        r'^\s*public\s+(class|static|void)\s+\w+',
+        r'^\s*System\.out\.println\(',
+    ],
+    "cpp": [
+        r'^\s*#include\s+<\w+\.h>',
+        r'^\s*int\s+main\s*\(',
+    ],
+    "javascript": [
+        r'^\s*function\s+\w+\(',
+        r'^\s*console\.log\(',
+    ],
