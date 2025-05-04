@@ -11,4 +11,4 @@ while e3<n:
     e1=e2
     e2=e3
 sum=sum -e3
-print("this is sum",sum)
+print("sum:",sum)
